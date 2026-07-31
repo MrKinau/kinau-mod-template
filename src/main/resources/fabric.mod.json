@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://github.com/MrKinau/modid",
-		"repo": "https://github.com/MrKinau/modid"
+		"sources": "https://github.com/MrKinau/modid"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/modid/icon.png",
@@ -24,7 +24,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.3",
-		"minecraft": ">=26.1",
+		"minecraft": ">=26.2",
 		"java": ">=25",
 		"fabric-api": "*"
 	}
